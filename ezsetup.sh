@@ -1,6 +1,5 @@
 #!/bin/sh
 
-# Configuration automatisée d'ubuntu pour accueillir une installation eZ Publish 5
 # Configuration variables
 TIMEZONE=Europe/Paris
 MEMORY_LIMIT=256M
